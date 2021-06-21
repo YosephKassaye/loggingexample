@@ -1,0 +1,8 @@
+C:\YK\Practice\Logging\Logging_Final\ClassLibrary1\ClassLibrary1\bin\Debug\netstandard2.0\ClassLibrary1.deps.json
+C:\YK\Practice\Logging\Logging_Final\ClassLibrary1\ClassLibrary1\bin\Debug\netstandard2.0\ClassLibrary1.dll
+C:\YK\Practice\Logging\Logging_Final\ClassLibrary1\ClassLibrary1\obj\Debug\netstandard2.0\ClassLibrary1.AssemblyInfoInputs.cache
+C:\YK\Practice\Logging\Logging_Final\ClassLibrary1\ClassLibrary1\obj\Debug\netstandard2.0\ClassLibrary1.AssemblyInfo.cs
+C:\YK\Practice\Logging\Logging_Final\ClassLibrary1\ClassLibrary1\obj\Debug\netstandard2.0\ClassLibrary1.csproj.CoreCompileInputs.cache
+C:\YK\Practice\Logging\Logging_Final\ClassLibrary1\ClassLibrary1\bin\Debug\netstandard2.0\ClassLibrary1.pdb
+C:\YK\Practice\Logging\Logging_Final\ClassLibrary1\ClassLibrary1\obj\Debug\netstandard2.0\ClassLibrary1.dll
+C:\YK\Practice\Logging\Logging_Final\ClassLibrary1\ClassLibrary1\obj\Debug\netstandard2.0\ClassLibrary1.pdb

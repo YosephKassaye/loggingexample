@@ -1,0 +1,9 @@
+C:\YK\Practice\Logging\Logging_Final\ClassLibrary1\ClassLibrary1\bin\Debug\netstandard2.0\CustomLogging.deps.json
+C:\YK\Practice\Logging\Logging_Final\ClassLibrary1\ClassLibrary1\bin\Debug\netstandard2.0\CustomLogging.dll
+C:\YK\Practice\Logging\Logging_Final\ClassLibrary1\ClassLibrary1\bin\Debug\netstandard2.0\CustomLogging.pdb
+C:\YK\Practice\Logging\Logging_Final\ClassLibrary1\ClassLibrary1\obj\Debug\netstandard2.0\CustomLogging.AssemblyInfoInputs.cache
+C:\YK\Practice\Logging\Logging_Final\ClassLibrary1\ClassLibrary1\obj\Debug\netstandard2.0\CustomLogging.AssemblyInfo.cs
+C:\YK\Practice\Logging\Logging_Final\ClassLibrary1\ClassLibrary1\obj\Debug\netstandard2.0\CustomLogging.dll
+C:\YK\Practice\Logging\Logging_Final\ClassLibrary1\ClassLibrary1\obj\Debug\netstandard2.0\CustomLogging.pdb
+C:\YK\Practice\Logging\Logging_Final\ClassLibrary1\ClassLibrary1\obj\Debug\netstandard2.0\CustomLogging.csproj.CoreCompileInputs.cache
+C:\YK\Practice\Logging\Logging_Final\ClassLibrary1\ClassLibrary1\obj\Debug\netstandard2.0\CustomLogging.csprojAssemblyReference.cache
